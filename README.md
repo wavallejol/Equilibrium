@@ -5,5 +5,5 @@
  <div <p><H3><b>Estabilidad Termodinámica de una porteína</b></div> 
   <div align="justify">En esta sesión obtendremos la curva de estabilidad termodinámica de un proteína desde un foramlismo clásico. Además, determinaremos el efecto de diferentes parámetros termodinámicos sobre la curva de estabilidad termodinámica</div>
  
-<div <H4><b> Puedes acceder a Colab por este link: </b> <a href="https://colab.research.google.com/github/wavallejol/ColabChem2/blob/main/Sesi%C3%B3n7_Segunda_Ley.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
+<div <H4><b> Puedes acceder a Colab por este link: </b> <a href="https://colab.research.google.com/github/wavallejol/Equilibrium/blob/main/Protein_Stability.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
   <hr size="4" width="100%" color="red"> 
