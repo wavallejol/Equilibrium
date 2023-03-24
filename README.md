@@ -6,5 +6,5 @@
   <div align="justify">En esta sesión obtendremos la curva de estabilidad termodinámica de un proteína desde un foramlismo clásico. Además, determinaremos el efecto de diferentes parámetros termodinámicos sobre la curva de estabilidad termodinámica. Finalmente, se utilizará un simulador interactivo de la curva de estabilidad desarrollado en streamlit</div>
  
 <div <H4><b> Puedes acceder a Colab por este link: </b> <a href="https://colab.research.google.com/github/wavallejol/Equilibrium/blob/main/Protein_Stability.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
-<div <H4><b> Puedes acceder a simulador por este link: </b> <a href="https://share.streamlit.io/wavallejol/streamlit/main/protein.py"> <img src='https://github.com/wavallejol/streamlit/blob/main/icon.png'width = "40" height = "15" /> </a></div>
+<div <H4><b> Puedes acceder a simulador por este link: </b> <a href="https://share.streamlit.io/wavallejol/streamlit/main/protein.py">  <img src='https://static.streamlit.io/badges/streamlit_badge_black_white.svg'> </a></div>
   <hr size="4" width="100%" color="red"> 
